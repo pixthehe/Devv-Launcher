@@ -1,0 +1,20 @@
+body {
+    background-image: url('bg.jpg');
+
+    font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    margin:0;
+  }
+/* h1 \/ body /\ */
+h1{
+  color:cornsilk;
+}
+
+.container{
+  widows: 500px;;
+  margin: auto;
+  }
+
+.box-1{
+background-color:rgba(0, 0, 0, 0.3);
+}
