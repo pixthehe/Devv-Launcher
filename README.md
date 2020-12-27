@@ -2,10 +2,9 @@
 
 ``A Launcher of the Games I make``
 
-<<<<<<< HEAD
+
 **You can look at the source of the Website at the**`Update Site Branch`
-=======
->>>>>>> HEAD
+
 
 **You can look at the source of the Website at the**`Update Site Branch`
 
