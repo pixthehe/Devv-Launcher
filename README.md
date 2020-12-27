@@ -5,7 +5,7 @@
 <<<<<<< HEAD
 **You can look at the source of the Website at the**`Update Site Branch`
 =======
->>>>>>> 7842c9e80741244712571736b8a98df641c93f5c
+>>>>>>> HEAD
 
 **You can look at the source of the Website at the**`Update Site Branch`
 
